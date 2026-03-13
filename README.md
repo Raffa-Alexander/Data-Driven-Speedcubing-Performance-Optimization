@@ -47,7 +47,7 @@ Annual solve volume shows a strong positive association with performance improve
 
 2. **Session Size and Performance**
 
-Scatter analysis using exponentially weighted recent sessions indicates a positive relationship between session size and session performance. Linear regression suggests that longer sessions are associated with improved average solve times within the session.
+Scatter analysis using exponentially weighted recent sessions indicates a regression slope of −0.0078, meaning that sessions with 50 additional solves tend to exhibit approximately 0.39 seconds lower average solve time. In other words, it suggests a positive relationship between session size and session performance.
 
 3. **Time-of-Day and Weekly Patterns**
 
